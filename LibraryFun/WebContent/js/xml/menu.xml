@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MENU>
+	<MENUBAR>
+		<TOPMENUBAR><![CDATA[<a href="http://www.pinkbunnie.info">HOMEPAGE</a>]]></TOPMENUBAR>
+	</MENUBAR>
+	
+	<MENUBAR>
+		<TOPMENUBAR><![CDATA[<a href="http://www.pinkbunnie.info">ABOUT</a>]]></TOPMENUBAR>
+	</MENUBAR>
+
+	<MENUBAR>
+		<TOPMENUBAR><![CDATA[<a href="ViewCatalogServlet">VIEWCATALOG</a>]]></TOPMENUBAR>
+	</MENUBAR>
+
+	<MENUBAR>
+		<TOPMENUBAR><![CDATA[<a href="http://www.pinkbunnie.info">LINK</a>]]></TOPMENUBAR>
+	</MENUBAR>
+
+	<MENUBAR>
+		<TOPMENUBAR><![CDATA[<a href="http://www.pinkbunnie.info">SERVICE</a>]]></TOPMENUBAR>
+	</MENUBAR>
+
+	<MENUBAR>
+		<TOPMENUBAR><![CDATA[<a href="Login.html">LOGIN</a>]]></TOPMENUBAR>
+	</MENUBAR>
+</MENU>
